@@ -1,7 +1,7 @@
 # face_detector
 
 
-```markdown
+
 # OpenCV Face and Eye Detection
 
 
